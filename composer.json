@@ -1,0 +1,13 @@
+{
+    "name": "webviously/packagist",
+    "description": "Claiming namespace on packagist.org",
+    "require": {
+        "php": "7.4"
+    },
+    "authors": [
+        {
+            "name": "Steven Brendtro",
+            "email": "info@webviously.net"
+        }
+    ]
+}
